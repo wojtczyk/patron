@@ -13,7 +13,7 @@ Why do we need patron? For the ease of use and for the independence of artists a
 ### Use cases
 
 - Independent artists and creators sharing their work with the world.
-- Journalists (even anonymous), yet backable by crypto sharing independent news
+- Journalists (even anonymous), yet backable by crypto, sharing independent news
 - News curators compiling domain specific news from around the world.
 
 ### Features
