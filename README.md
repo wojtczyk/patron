@@ -1,4 +1,4 @@
-*Disclaimer: this is a noob's project based on Scaffold-ETH. Aside of the great Scaffold-ETH jumpstart nothing else works, yet.*
+*Disclaimer: This is a noob's project based on Scaffold-ETH. At this point an idea. Aside of the great Scaffold-ETH jumpstart nothing else works, yet.*
 
 # patron
 
