@@ -9,3 +9,6 @@
 [submodule "cli-starter"]
 	path = cli-starter
 	url = https://github.com/xmtp/cli-starter
+[submodule "packages/cli-starter"]
+	path = packages/cli-starter
+	url = https://github.com/xmtp/cli-starter
