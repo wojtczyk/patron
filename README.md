@@ -11,15 +11,20 @@ patron leverages the synergies of classical web2-based patronage platforms with 
 Why do we need patron? For the ease of use and for the independence of artists and creators!
 
 ### Use cases
+
 - Independent artists and creators sharing their work with the world.
 - Journalists (even anonymous), yet backable by crypto sharing independent news
 - News curators compiling domain specific news from around the world.
 
-patron is an attempt to empower creative individuals to share their work and creations with the world. The goals of the platform are
+### Features
+
+patron is an attempt to empower creative individuals to share their work and creations with the world. The goals of the platform are:
 * Ease of use of blockchain technology
 * Anonymous or identified financial backing of artists and creators, anonymous or identified roles for artists and creators
 * Decentralized content delivery
 * Immutability guarantees that digital content cannot be altered or removed (think of independent journalism)
+
+### Discovery
 
 How do you ensure artists and creators get discovered? A classical portal website will be the interface to the content and work of creators where patrons can customize their feed by up- or downvotes, similar to reddit or hacker news.
 
